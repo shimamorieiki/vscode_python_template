@@ -1,0 +1,2 @@
+# vscode_python_template
+vscodeでpythonの開発を行う際のテンプレートリポジトリ
